@@ -18,7 +18,7 @@
 - [ ] PHP
 
 
-TCC do curso técnico de análise e desenvolvimento de sistemas: [Finsocial](https://finsocial.top/)
+Final Paper of the technical course of systems analysis and development / TCC do curso técnico de análise e desenvolvimento de sistemas: [Finsocial](https://finsocial.top/)
 
 
 [DevLogs aqui](https://github.com/Marcelo-Marinho/Marcelo-Marinho/blob/main/devlogs/devlog.md)
