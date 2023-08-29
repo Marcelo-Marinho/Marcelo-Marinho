@@ -13,3 +13,7 @@ Uma ideia simples, porém quero investir...
 ## 28/08/2023
 
 Pixel art, pixel art e pixel art...
+
+## 29/08/2023
+
+Conta na fiverr criada: [Fiverr](https://br.fiverr.com/marmarinho/create-a-random-game-for-you-in-godot)
