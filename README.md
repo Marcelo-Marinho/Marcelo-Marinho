@@ -8,14 +8,14 @@
 - [X] Python
 - [X] Javascript
 - [X] Html/Css
-- [ ] C
+- [X] C
 - [ ] C#
 - [ ] Recreate Doom :suspect:
-- [ ] IA
+- [X] IA
 - [ ] Pentest
-- [ ] Criptograph
+- [X] Criptograph
 - [X] Make a coffee
-- [ ] PHP
+- [X] PHP
 
 
 Final Paper of the technical course of systems analysis and development / TCC do curso técnico de análise e desenvolvimento de sistemas: [Finsocial](https://finsocial.top/)
